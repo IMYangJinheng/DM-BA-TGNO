@@ -20,9 +20,9 @@ The moving-pintle nozzle is used as a representative dynamic-mesh configuration,
 
 ## 🛠️ Model Architecture
 
-![Model Architecture_1](asset/Fig2.png)
+![Model Architecture_1](asset/Fig12.png)
 
-![Model Architecture_2](asset/Fig3.png)
+![Model Architecture_2](asset/Fig13.png)
 
 ## 📊 Results
 ![Result_1](asset/Fig10.png)
