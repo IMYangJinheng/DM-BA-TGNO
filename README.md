@@ -5,7 +5,7 @@ Prediction in Moving-Boundary Systems"**.
 we propose a Dynamic-Mesh Boundary-Aware Temporal Graph Neural Operator, termed DM-BA-TGNO, for dynamic-mesh flow-field prediction in moving-boundary compressible flows.
 Rather than treating the moving-pintle nozzle as an isolated engineering case, this study uses it as a representative dynamic-mesh configuration to investigate geometry-conditioned graph learning under prescribed boundary motion.
 
-![Overview](asset/Fig1.png)
+![Overview](asset/Fig0.png)
 
 ## 🚀 Key Contributions
 
