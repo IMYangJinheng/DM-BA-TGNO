@@ -31,4 +31,4 @@ The moving-pintle nozzle is used as a representative dynamic-mesh configuration,
 ![Result_3](asset/Fig7.png)
 
 ## 📧 Contact
-Since our paper is currently under review, the detailed code and dataset will be uploaded after the paper is accepted. If you need the code and dataset recently, please contact us: Jinheng Yang: 124101022118@njust.edu.cn
+Owing to the large size of the dataset and associated simulation cases, they are not included with the current submission. The detailed code and dataset will be made publicly available after the paper is accepted. During the review process, they are available from the corresponding author upon reasonable request. Please contact Jinheng Yang at 124101022118@njust.edu.cn.
